@@ -1,2 +1,2 @@
 # isPrime
-Creating a methor to see if a number is prime or not
+Creating a method to see if a number is prime or not
