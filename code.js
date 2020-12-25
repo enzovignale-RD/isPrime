@@ -32,6 +32,6 @@ isPrime(-1); // max is 232
 isPrime(0); // max is 232
 isPrime(1); // max is 232
 isPrime(3.4); // max is 232
-isPrime(3);
+isPrime(3); // testing for number 3
 isPrime(2);
 isPrime();
